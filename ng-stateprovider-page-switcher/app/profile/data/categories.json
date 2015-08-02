@@ -1,0 +1,8 @@
+[
+    {"id": 0, "name": "Общие описание","narrow":"page-1"},
+    {"id": 1, "name": "Профильные описание","narrow":"page-2"},
+    {"id": 2, "name": "Категории","narrow":"page-3"},
+    {"id": 3, "name": "Уведомления","narrow":"page-4"},
+    {"id": 3, "name": "Пароль","narrow":"page-5"},
+    {"id": 3, "name": "Удалить акаунт","narrow":"page-6"}
+]

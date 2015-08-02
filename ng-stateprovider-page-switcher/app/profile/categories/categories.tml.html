@@ -1,0 +1,10 @@
+
+<ul class="nav nav-sidebar">
+    <li ng-repeat="category in vm.categories" ng-class="{'active':vm.isCurrentCategory(category)}">
+        <a href="" ui-sref="index.profile.bookmarks({category: category.name, narrow: category.narrow})">
+        {{category.name}}
+        </a>
+    </li>
+
+
+</ul>
